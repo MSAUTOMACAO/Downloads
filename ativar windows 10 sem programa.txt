@@ -1,0 +1,11 @@
+cscript slmgr.vbs /ipk "Aqui voce coloca o serial do seu Windows sem as aspas"
+cscript slmgr.vbs /skms kms.lotro.cc
+cscript slmgr.vbs /ato
+
+
+Windows 10 Pro:
+VK7JG-NPHTM-C97JM-9MPGT-3V66T
+8N67H-M3CY9-QT7C4-2TR7M-TXYCV
+2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
+DXG7C-N36C4-C4HTG-X4T3X-2YV77
+WYPNQ-8C467-V2W6J-TX4WX-WT2RQ
